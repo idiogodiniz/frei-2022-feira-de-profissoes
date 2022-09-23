@@ -1,0 +1,17 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>5</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>125</x><y>250</y><w>60</w><h>125</h></coordinates><panel_attributes>VIN                          RX
+5V                            TX
+3.3V                         D2
+                                 D3
+AREF                        D4
+IOREF                      D5
+RES                          D6
+                                 D7
+A0                            D8
+A1                            D9
+A2                          D10
+A3                          D11
+A4                          D12
+A5                          D13
+                               SDA
+GND                      SLC</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>130</x><y>235</y><w>50</w><h>15</h></coordinates><panel_attributes>Arduino UNO</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>210</x><y>250</y><w>60</w><h>125</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>215</x><y>235</y><w>50</w><h>15</h></coordinates><panel_attributes>Protoboard</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>65</x><y>160</y><w>35</w><h>55</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>65</x><y>140</y><w>35</w><h>20</h></coordinates><panel_attributes>Módulo
+Bluetooth</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>165</x><y>60</y><w>60</w><h>125</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>170</x><y>45</y><w>50</w><h>15</h></coordinates><panel_attributes>Módulo Relé</panel_attributes><additional_attributes></additional_attributes></element></diagram>
